@@ -1,4 +1,4 @@
-# Frontend Mentor - Social media dashboard with theme switcher
+Social media dashboard with theme switcher
 
 This code is from my [YouTube video series](https://www.youtube.com/watch?v=iL4irerdGdU&list=PLUWqFDiirlsu5az5EIyxe8ZddyNO_kDuP) building a social media dashboard with dark/light toggle.
 
